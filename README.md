@@ -1,2 +1,2 @@
 # JAVA
-Some basic JAVA programs.
+Some basic JAVA programs written by me.
